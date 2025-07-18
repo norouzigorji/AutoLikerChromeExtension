@@ -1,0 +1,23 @@
+{
+  "manifest_version": 3,
+  "name": "ربات لایک خودکار پست توییتر",
+  "version": "1.0",
+  "description": "یک ربات آموزشی برای لایک کردن 5 پست اول در یک صفحه خاص.",
+  "permissions": [
+    "activeTab",
+    "scripting"
+  ],
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "16": "images/icon16.png",
+      "32": "images/icon32.png",
+      "128": "images/icon128.png"
+    }
+  },
+  "icons": {
+    "16": "images/icon16.png",
+    "32": "images/icon32.png",
+    "128": "images/icon128.png"
+  }
+}
